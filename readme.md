@@ -1,7 +1,7 @@
 # Serving multiple apps with one Laravel codebase using subdomain routing
 > Demo on how to serve multiple applications with one Laravel codebase using subdomain routing.
 
-[View tutorial](https://blog.pusher.com/laravel-subdomain-routing/)
+[View tutorial](http://blog.pusher.com/laravel-subdomain-routing/)
 
 ## Requirements
 - Basic knowledge of the [Laravel framework](https://laravel.com).
